@@ -14,5 +14,6 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * Disponible para todas las edades
 * Esto lo copie del repo original
 * Aun tengo que aprender a escribir en markdown
+* Esto solo estara en mi repo a no ser que tu me copies
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
